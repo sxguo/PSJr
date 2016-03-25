@@ -1,0 +1,529 @@
+{
+    "lookat_camera": { "from": [80,20,200] },
+    "surfaces": [
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 400.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-70 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 0.5,0.5,0.5 ],
+	    "isRoot": true,
+	    "children": [1,8,23,29,35],
+            "material": { "kd": [0,2,0.5], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,-20,40 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 60,30,20 ],
+	    "children": [2,3,4,5,6,7],
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+        {
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,-1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "tform": [ 0,0,0 ],
+	    "rform": [ 0,0.7854,0 ],
+	    "sform": [ 1.42,1.42,0.5 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.15,0.5,0.1], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	
+
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,-50,65 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "children": [9,15,21,22],
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,0 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 13,13,32 ],
+	    "children": [10,11,12,13,14],
+            "material": { "kd": [1.8,5.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,-1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,25 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 8,8,13 ],
+	    "applyColor": true,
+	    "children": [16,17,18,19,20],
+            "material": { "kd": [2.8,2.8,3], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,-1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "tform": [ 0,0,27 ],
+	    "rform": [ 0,0.7854,0 ],
+	    "sform": [ 9,9,14 ],
+	    "hasChildren": false,
+	    "subdivision_level": 3,
+            "material": { "kd": [0.15,0.5,0.1], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "tform": [ 0,0,40 ],
+	    "rform": [ 0,0.7854,0 ],
+	    "sform": [ 2,2,35 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.15,0.5,0.1], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -80,-50,40 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 20,60,20 ],
+	    "applyColor": true,
+	    "children": [24,25,26,27,28],
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+        {
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,-1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 80,-50,40 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 20,60,20 ],
+	    "applyColor": true,
+	    "children": [30,31,32,33,34],
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+        {
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,-1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,70,40 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 100,60,20 ],
+	    "applyColor": true,
+	    "children": [36,37,38,39,40],
+            "material": { "kd": [1.8,0.7,0.4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+        {
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 0,-1,-1 ],
+	    "rform": [ 1.5708,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+            "isquad": true,
+	    "tform": [ 1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ -1,0,-1 ],
+	    "rform": [ 0,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "isquad": true,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 300.0,
+	    "isquad": true,
+	    "tform": [ -60,150,50 ],
+	    "rform": [ 1.5708,0,1.5708 ],
+	    "sform": [ 1,1,1 ],
+	    "isRoot": true,
+	    "children": [42,45],
+            "material": { "kd": [1,4,4], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 150.0,
+	    "tform": [ 0,0,0 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 5,5,5 ],
+	    "children": [43,44],
+	    "subdivision_level": 3,
+            "material": { "kd": [5,0,0], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 50.0,
+	    "tform": [ 0,-40,0 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+	    "subdivision_level": 3,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 100.0,
+	    "tform": [ 0,0,-100 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+	    "subdivision_level": 3,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+
+
+
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "children": [46],
+	    "subdivision_level": 3,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        },
+	{
+            "frame": { "o": [0,0,0], "y": [0,0,-1], "z": [0,1,0] },
+            "radius": 1.0,
+	    "tform": [ 0,0,-2 ],
+	    "rform": [ 0,0,0 ],
+	    "sform": [ 1,1,1 ],
+	    "hasChildren": false,
+	    "subdivision_level": 3,
+            "material": { "kd": [0.7,0.7,0.7], "ks": [0.7,0.7,0.7], "n": 100 }
+        }
+
+    ],
+    "lights": [
+        { "frame": { "o": [30,25,100] }, "intensity": [3000,3000,3000] }
+    ]}
